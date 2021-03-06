@@ -1,5 +1,11 @@
 # hangman-game
 
+A word guessing game with Vue js and Composition API
+
+# Demo
+
+View live demo at [Demo](https://vue-hangman.netlify.app/)
+
 ## Project setup
 ```
 npm install
